@@ -6,14 +6,9 @@ Before(() => {
 });
 
 Given("I am on the sandbox page", () => {
-  cy.title().then(($title) => {
-    assert.strictEqual($title, "Sandbox");
-  });
+  cy.title().should("eq", "Sandbox");
 });
 
 Then("The page header should be {string}", (expected) => {
-  cy.get("h1").then(($header) => {
-    const text = $header.text();
-    assert.strictEqual(text, expected);
-  });
+  cy.get("h1").should("have.text", expected);
 });
