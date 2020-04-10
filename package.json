@@ -19,11 +19,7 @@
     "@types/chai": "4.2.11",
     "@types/cypress-cucumber-preprocessor": "2.3.0",
     "eslint-plugin-cypress": "2.10.3",
-<<<<<<< HEAD
-    "husky": "4.2.3",
-=======
     "husky": "4.2.5",
->>>>>>> 976cb609e07f44aff252d70cc55aeb45aaf5728e
     "lint-staged": "10.1.3",
     "prettier": "2.0.4",
     "tslint": "6.1.1",
