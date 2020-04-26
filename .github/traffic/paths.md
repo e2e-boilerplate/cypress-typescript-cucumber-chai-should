@@ -1,9 +1,0 @@
-| referrer                                                                                          | count | uniques |
-| :------------------------------------------------------------------------------------------------ | :---- | :------ |
-| /e2e-boilerplate/cypress-typescript-cucumber-chai-should                                          | 4     | 2       |
-| /e2e-boilerplate/cypress-typescript-cucumber-chai-should/actions                                  | 1     | 1       |
-| /e2e-boilerplate/cypress-typescript-cucumber-chai-should/actions/runs/70310322                    | 1     | 1       |
-| /e2e-boilerplate/cypress-typescript-cucumber-chai-should/blob/master/.github/traffic/referrers.md | 1     | 1       |
-| /e2e-boilerplate/cypress-typescript-cucumber-chai-should/runs/559703150                           | 1     | 1       |
-| /e2e-boilerplate/cypress-typescript-cucumber-chai-should/tree/master/.github                      | 1     | 1       |
-| /e2e-boilerplate/cypress-typescript-cucumber-chai-should/tree/master/.github/traffic              | 1     | 1       |
