@@ -33,16 +33,17 @@
     }
   },
   "keywords": [
-    "boilerplate",
     "chai",
     "cucumber",
     "cypress",
+    "should",
+    "typescript",
     "e2e",
     "e2e tests",
-    "example",
+    "boilerplate",
     "integration test",
-    "should",
-    "typescript"
+    "test automation",
+    "javascript"
   ],
   "license": "MIT",
   "lint-staged": {
